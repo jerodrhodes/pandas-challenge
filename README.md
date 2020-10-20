@@ -1,5 +1,11 @@
 # pandas-challenge
 
+## Trends
+### 1. Male players may make up the majority of the players, however they spend less per person on average than female and other / non-disclosed players.
+### 2. Very little gaming is done up until the age of 15. Once adolescents hit the age of 15, game play increased drastically and took a second drastic increase once players hit the age of 20. After players hit the age of 25, game play decreases drastically and then continues to steadily decrease as players approach middle-age.
+### 3. "Final Critic" and "Oathbreaker, Last Hope of the Breaking Storm" were the games most popular and most profitable items.
+### 4. I found it intersting that the average total purchase per person for the <10 age group and the 35-39 age group were the two highest, only because usually the 35-39 age group are those adults who have children in the <10 age group.
+
 ## Instructions
 
 ### Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
